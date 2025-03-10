@@ -1,0 +1,12 @@
+{
+  "pdf_path": "kcb.pdf",
+  "generator_type": "NumericPasswordGenerator",
+  "generator_params": {
+    "total_count": 100000000,
+    "length": 8
+  },
+  "current_position": 130000,
+  "passwords_tried": 116304,
+  "elapsed_time": 80.13457870483398,
+  "timestamp": 1741588590.5054731
+}

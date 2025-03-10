@@ -6,7 +6,7 @@ An advanced tool for recovering passwords from protected PDF files.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/pdf-password-cracker.git
+git clone https://github.com/vkhydras/pdf_cracker.git
 cd pdf-password-cracker
 
 # Create a virtual environment (optional but recommended)
@@ -66,6 +66,14 @@ pdf-cracker document.pdf -t dictionary --dictionary wordlist.txt
 ```bash
 pdf-cracker document.pdf --ignore-state
 ```
+
+#### Display Help:
+
+```bash
+pdf-cracker -h
+```
+
+This will display the help message with all available options and their descriptions.
 
 ### Password Types
 

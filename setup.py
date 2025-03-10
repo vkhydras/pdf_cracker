@@ -10,12 +10,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="pdf-password-cracker",
     version="0.1.0",
-    author="PDF Cracker Team",
-    author_email="example@example.com",
-    description="Advanced PDF Password Cracker",
+    author="PDF Cracker",
+    author_email="victorkimaru8@gmail.com",
+    description="PDF Password Cracker",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/example/pdf-password-cracker",
+    url="https://github.com/vkhydras/pdf_cracker.git",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

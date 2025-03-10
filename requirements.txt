@@ -1,0 +1,9 @@
+Deprecated==1.2.18
+lxml==5.3.1
+packaging==24.2
+pikepdf==9.5.2
+pillow==11.1.0
+psutil==7.0.0
+setuptools==76.0.0
+tqdm==4.67.1
+wrapt==1.17.2
